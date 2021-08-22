@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "matter-js": "^0.16.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
